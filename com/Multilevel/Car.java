@@ -3,7 +3,7 @@ package com.Multilevel;
 public class Car extends Vehicle{
 	String Cartype;
 	public Car(String Cartype, String Type) {
-		super(Type);
+	
 		this.Cartype=Cartype;
 	}
 	

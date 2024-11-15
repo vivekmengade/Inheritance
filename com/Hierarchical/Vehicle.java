@@ -11,7 +11,7 @@ public class Vehicle {
 	public Vehicle(String name, String brand, String type) {
 		this.Name=name;
 		this.Brand=brand;
-		this.Type=type;
+		this.Type=type; 
 	}
 	void showvehicle(){
 		System.out.println("name of vehicle = "+this.Name);
