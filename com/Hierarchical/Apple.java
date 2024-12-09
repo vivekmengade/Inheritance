@@ -15,5 +15,5 @@ public class Apple extends Fruit {
 		System.out.println("location of fruit = "+loc);
 		System.out.println("Taste of Fruit = "+taste);
 		
-	}
+	} 
 }
