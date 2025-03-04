@@ -5,8 +5,9 @@ public class SportCar extends Car{
 	public SportCar(int id , String car){
 	
 	}
+	
 	void sportcar() {
-		Car s = new Car();
+		Car s = new Car(Cartype, Cartype);
 		s.car();
 //		System.out.println("this is sport car");
 		System.out.println("this is car ID = " +id);
